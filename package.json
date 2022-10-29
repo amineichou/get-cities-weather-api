@@ -4,7 +4,7 @@
   "description": "web scraper will get more then 1000 cities current weather",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/index.js"
   },
   "author": "amine ichou",
   "license": "ISC",
