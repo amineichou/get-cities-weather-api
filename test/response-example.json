@@ -1,0 +1,322 @@
+[
+    {
+        "city": "Adelaide",
+        "temperature": "63 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-2.svg"
+    },
+    {
+        "city": "Luganville",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Alice Springs",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-1.svg"
+    },
+    {
+        "city": "Majuro",
+        "temperature": "80 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Alofi",
+        "temperature": "72 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-34.svg"
+    },
+    {
+        "city": "Mata-Utu",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Apia",
+        "temperature": "82 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Melbourne",
+        "temperature": "54 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-18.svg"
+    },
+    {
+        "city": "Auckland",
+        "temperature": "64 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Melekeok",
+        "temperature": "85 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Bantam",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-6.svg"
+    },
+    {
+        "city": "Midway",
+        "temperature": "76 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Bowral",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    },
+    {
+        "city": "Nadi",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Brisbane",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Neiafu",
+        "temperature": "75 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Cairns",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Ngerulmud",
+        "temperature": "85 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Canberra",
+        "temperature": "55 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    },
+    {
+        "city": "Noumea",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Christchurch",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Nuku'alofa",
+        "temperature": "75 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Colonia",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Pago Pago",
+        "temperature": "78 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Darwin",
+        "temperature": "91 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-2.svg"
+    },
+    {
+        "city": "Palikir",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Eucla",
+        "temperature": "63 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-2.svg"
+    },
+    {
+        "city": "Palmerston North",
+        "temperature": "69 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-34.svg"
+    },
+    {
+        "city": "Funafuti",
+        "temperature": "82 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Pangai",
+        "temperature": "75 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Gambier Islands",
+        "temperature": "72 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-34.svg"
+    },
+    {
+        "city": "Papeete",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Gizo",
+        "temperature": "86 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Perth",
+        "temperature": "59 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-18.svg"
+    },
+    {
+        "city": "Hagåtña",
+        "temperature": "83 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Port Vila",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Hilo",
+        "temperature": "72 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Rarotonga",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Hobart",
+        "temperature": "54 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-18.svg"
+    },
+    {
+        "city": "Saipan",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Honiara",
+        "temperature": "86 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Salelologa (Savai'i)",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Honolulu",
+        "temperature": "76 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Suva",
+        "temperature": "82 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    },
+    {
+        "city": "Kiama",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    },
+    {
+        "city": "Sydney",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Kingston",
+        "temperature": "70 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-35.svg"
+    },
+    {
+        "city": "Tarawa",
+        "temperature": "86 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    },
+    {
+        "city": "Kiritimati",
+        "temperature": "79 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Tauranga",
+        "temperature": "64 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-35.svg"
+    },
+    {
+        "city": "Kolonia",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Tennant Creek",
+        "temperature": "90 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-2.svg"
+    },
+    {
+        "city": "Koror",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Traralgon",
+        "temperature": "54 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-18.svg"
+    },
+    {
+        "city": "Kwajalein",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Wailuku",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Labasa",
+        "temperature": "79 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Wake Island",
+        "temperature": "81 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-20.svg"
+    },
+    {
+        "city": "Lautoka",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Wellington",
+        "temperature": "64 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Levuka",
+        "temperature": "77 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-14.svg"
+    },
+    {
+        "city": "Weno",
+        "temperature": "82 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Lord Howe Island",
+        "temperature": "70 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-13.svg"
+    },
+    {
+        "city": "Wollongong",
+        "temperature": "73 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-15.svg"
+    }
+]
