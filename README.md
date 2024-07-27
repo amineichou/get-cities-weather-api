@@ -3,7 +3,7 @@
 A simple API built with Express.js to provide current weather information for cities.
 
 ## Features
-- Retrieve current weather data for any city.
+- Retrieve current weather data for a lots of cities.
 - Easy to use and extend.
 - Developed with modern JavaScript practices.
 
@@ -14,20 +14,38 @@ A simple API built with Express.js to provide current weather information for ci
 4. Start the server: `npm start` (The server will run at `http://localhost:3000`).
 
 ## API Endpoints
-### `GET /weather`
-Fetch the current weather for a city.
+### `GET /get`
+Fetch the current weather for a cities.
 
 **Request Parameters:**
-- `city` (query parameter): The name of the city to get weather information for.
+- `no param`
 
 **Example Request:**
-`curl "http://localhost:3000/weather?city=London"`
+`curl "http://localhost:3000/get"`
 
 **Example Response:**
 ```json
-{
-  "city": "London",
-  "temperature": "15°C",
-  "condition": "Cloudy"
-}
+[
+    {
+        "city": "Adelaide",
+        "temperature": "63 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-2.svg"
+    },
+    {
+        "city": "Luganville",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    {
+        "city": "Alice Springs",
+        "temperature": "84 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-1.svg"
+    },
+    {
+        "city": "Majuro",
+        "temperature": "80 °F",
+        "icon": "//c.tadst.com/gfx/w/svg/wt-17.svg"
+    },
+    ...
+]
 ```
