@@ -48,16 +48,6 @@ axios.get('https://www.timeanddate.com/weather/?continent=africa&low=1')
                     "icon": icon_1
                 }
             )
-            // let city_2 = a.find('td>a').eq(2).text();
-            // let temperature_2 = a.find('td.rbi').eq(2).text();
-            // let icon_2 = a.find('td.r').find('img').eq(2).attr('src');
-            // weatherData.push(
-            //     {
-            //         "city": city_2,
-            //         "temperature": temperature_2,
-            //         "icon": icon_2
-            //     }
-            // )
         })
     })
 axios.get('https://www.timeanddate.com/weather/?continent=samerica&low=1')
@@ -86,16 +76,6 @@ axios.get('https://www.timeanddate.com/weather/?continent=samerica&low=1')
                     "icon": icon_1
                 }
             )
-            // let city_2 = a.find('td>a').eq(2).text();
-            // let temperature_2 = a.find('td.rbi').eq(2).text();
-            // let icon_2 = a.find('td.r').find('img').eq(2).attr('src');
-            // weatherData.push(
-            //     {
-            //         "city": city_2,
-            //         "temperature": temperature_2,
-            //         "icon": icon_2
-            //     }
-            // )
         })
     })
 axios.get('https://www.timeanddate.com/weather/?continent=asia')
@@ -124,16 +104,6 @@ axios.get('https://www.timeanddate.com/weather/?continent=asia')
                     "icon": icon_1
                 }
             )
-            // let city_2 = a.find('td>a').eq(2).text();
-            // let temperature_2 = a.find('td.rbi').eq(2).text();
-            // let icon_2 = a.find('td.r').find('img').eq(2).attr('src');
-            // weatherData.push(
-            //     {
-            //         "city": city_2,
-            //         "temperature": temperature_2,
-            //         "icon": icon_2
-            //     }
-            // )
         })
     })
 axios.get('https://www.timeanddate.com/weather/?continent=australasia')
@@ -162,16 +132,6 @@ axios.get('https://www.timeanddate.com/weather/?continent=australasia')
                     "icon": icon_1
                 }
             )
-            // let city_2 = a.find('td>a').eq(2).text();
-            // let temperature_2 = a.find('td.rbi').eq(2).text();
-            // let icon_2 = a.find('td.r').find('img').eq(2).attr('src');
-            // weatherData.push(
-            //     {
-            //         "city": city_2,
-            //         "temperature": temperature_2,
-            //         "icon": icon_2
-            //     }
-            // )
         })
     })
 axios.get('https://www.timeanddate.com/weather/?continent=europe')
@@ -200,16 +160,6 @@ axios.get('https://www.timeanddate.com/weather/?continent=europe')
                     "icon": icon_1
                 }
             )
-            // let city_2 = a.find('td>a').eq(2).text();
-            // let temperature_2 = a.find('td.rbi').eq(2).text();
-            // let icon_2 = a.find('td.r').find('img').eq(2).attr('src');
-            // weatherData.push(
-            //     {
-            //         "city": city_2,
-            //         "temperature": temperature_2,
-            //         "icon": icon_2
-            //     }
-            // )
         })
     })
 
